@@ -1,36 +1,29 @@
-```markdown
 <h1 align="center">Hi 👋, I'm D.N. Akshay</h1>
 
 <h3 align="center">
-Java Full Stack Developer | AI & ML Engineer | Passionate Software Developer
+Java Full Stack Developer | AI & ML Student | Passionate Software Engineer
 </h3>
 
 <p align="center">
-Building scalable, secure, and modern web applications using Java, Spring Boot, React, and AWS while continuously learning new technologies.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dn-akshay&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+Building scalable web applications with Java, Spring Boot, React, and AWS while continuously learning and solving real-world problems.
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 Final Year B.E. Computer Science Engineering (AI & ML) Student (2026)
 
-💻 Passionate about Java Backend Development, Full Stack Development, Cloud Computing, and Software Engineering.
+💻 Passionate about Backend Development, Full Stack Development, and Cloud Computing.
 
-🌱 Currently Learning
-
+🌱 Currently enhancing my skills in:
 - Spring Boot
 - React.js
 - AWS Cloud
 - System Design
 - Data Structures & Algorithms
 
-🎯 Looking for opportunities as
-
+🎯 Looking for opportunities as a:
 - Software Engineer
 - Java Developer
 - Full Stack Developer
@@ -38,96 +31,63 @@ Building scalable, secure, and modern web applications using Java, Spring Boot, 
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+`Java` `SQL` `JavaScript` `HTML5` `CSS3`
 
 ### Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+`Spring Boot` `Hibernate` `JDBC` `REST APIs` `Spring Security`
 
 ### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+`React.js` `Bootstrap`
 
 ### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+`MySQL`
 
 ### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide)
+`AWS` `Git` `GitHub` `VS Code` `Eclipse` `IntelliJ IDEA`
 
 ---
 
-# 🌟 Featured Projects
+## 🌟 Featured Projects
 
-🤖 Smart Attendance System Using Face Recognition
+🤖 **Smart Attendance System Using Face Recognition**
 
-🗳️ Online Voting System
+🗳️ **Online Voting System**
 
-💰 Expense Tracker
+💰 **Expense Tracker**
 
-🌐 Personal Portfolio Website
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dn-akshay&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dn-akshay&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dn-akshay&theme=tokyonight&hide_border=true"/>
-</p>
+🌐 **Personal Portfolio Website**
 
 ---
 
-# 📈 Current Focus
+## 📈 Current Focus
 
-✔ Building Real-World Java Full Stack Projects
+✔ Building real-world Java Full Stack projects
 
-✔ Mastering Data Structures & Algorithms
+✔ Strengthening DSA & Problem Solving
 
-✔ Learning AWS Cloud & DevOps
+✔ Learning Cloud Technologies (AWS)
 
-✔ Writing Clean, Scalable & Maintainable Code
+✔ Writing clean, maintainable code
 
 ---
 
-# 🤝 Connect With Me
+## 🤝 Connect With Me
 
-📧 Email: **dnakshaya@gmail.com**
+📧 **Email:** dnakshaya@gmail.com
 
-💼 LinkedIn: **https://www.linkedin.com/in/d-n-akshay/**
+💼 **LinkedIn:** https://www.linkedin.com/in/d-n-akshay/
 
-🌐 Portfolio: **Coming Soon**
+🌐 **Portfolio:** Coming Soon...
 
 ---
 
 <div align="center">
 
-## 💡 "Code with Purpose • Learn with Passion • Grow with Consistency"
+### 💡 *"Code with Purpose. Learn with Passion. Grow with Consistency."*
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-</div>
-```
+</div>   stautus bar also should change
