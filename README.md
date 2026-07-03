@@ -90,4 +90,4 @@ Building scalable web applications with Java, Spring Boot, React, and AWS while 
 
 ⭐ Thanks for visiting my profile!
 
-</div>   stautus bar also should change
+</div>   
