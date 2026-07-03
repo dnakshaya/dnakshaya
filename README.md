@@ -76,9 +76,9 @@ Building scalable web applications with Java, Spring Boot, React, and AWS while 
 
 ## 🤝 Connect With Me
 
-📧 **Email:** yourmail@gmail.com
+📧 **Email:** dnakshaya@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
+💼 **LinkedIn:** https://www.linkedin.com/in/d-n-akshay/
 
 🌐 **Portfolio:** Coming Soon...
 
